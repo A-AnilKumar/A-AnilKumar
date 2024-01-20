@@ -1,4 +1,4 @@
-# Hey there ! 👋
+# 🌟 Welcome to my GitHub!
 
 I'm Anil Kumar, a computer science student and coding enthusiast passionate about development and exploring the world of algorithms and data structures. 🚀
 
