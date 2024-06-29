@@ -4,7 +4,7 @@ I'm Anil Kumar, a computer science student and coding enthusiast passionate abou
 
 ## About Me
 
-- 🎓 Currently pursuing a degree in Computer Science.
+- 🎓 recent graduate in Computer Science.
 - 💻 Coding is not just a skill for me; it's a way of thinking and problem-solving.
 - 🌐 Open source enthusiast, always eager to contribute to meaningful projects.
 - 📚 Constantly learning and exploring new technologies.
